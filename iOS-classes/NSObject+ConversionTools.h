@@ -2,7 +2,7 @@
 //  NSObject+ConversionTools.h
 //  MockMetrics
 //
-//  Created by The LiRo Group on 12/2/13.
+//  Created by Andrew McKinley on 12/2/13.
 //
 //
 

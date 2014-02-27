@@ -1,7 +1,7 @@
 //
 //  DoubleLineGraphVC.m
 //
-//  Created by Andrew McKinleyon 11/26/13.
+//  Created by Andrew McKinley on 11/26/13.
 //
 //
 

@@ -2,7 +2,7 @@
 //  LineGraphVC.m
 //  MockMetrics
 //
-//  Created by The LiRo Group on 9/19/13.
+//  Created by Andrew McKinley on 9/19/13.
 //
 //
 
